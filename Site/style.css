@@ -1,5 +1,7 @@
-titleincial{
+h1{
     text-align: center;
-    background-color: black;
-    color: #fff;
+}
+p {
+    text-align: center;
+    text-size-adjust: 160px;
 }
